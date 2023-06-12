@@ -9,8 +9,11 @@ Dữ liệu được cung cấp bởi giảng viên môn học.
 
 ## File
 File DataAir48hours_univariable là file code sửa lại sau khi đã có sự góp ý của giảng viên.
+
 File sarima_nhom19 và LSTM_nhom19 là file code ban đầu khi chưa có sự góp ý của giảng viên.
+
 File DataAirTrain.csv là file dữ liệu được cung cấp.
+
 Slide và report là slide thuyết trình và báo cáo môn học.
 
 
